@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 280" role="img" aria-labelledby="title desc">
+<title id="title">陈祺新</title><desc id="desc">Research, code and open source</desc>
+<rect width="1100" height="280" rx="18" fill="#122c37"/>
+<g fill="none" stroke="#8cd3c0" stroke-opacity=".2"><circle cx="990" cy="140" r="180"/><circle cx="990" cy="140" r="135"/><circle cx="990" cy="140" r="90"/><path d="M810 140h360M990-40v360"/></g>
+<text x="60" y="60" fill="#8cd3c0" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">RESEARCH · CODE · OPEN SOURCE</text>
+<text x="56" y="145" fill="#faf7ef" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="58" font-weight="700">陈祺新</text>
+<text x="60" y="207" fill="#d6e4e4" font-family="Arial,sans-serif" font-size="20">Code generation. Data quality. Curriculum learning.</text>
+<path d="M60 237h54" stroke="#8cd3c0" stroke-width="4"/>
+</svg>
